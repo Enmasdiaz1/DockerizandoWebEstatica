@@ -1,0 +1,26 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE y editor
+.vscode/
+.idea/
+*.iml
+
+# Carpeta de OS o nube
+*.log
+~$*
+*.tmp
+
+# Docker
+*.tar
+docker-save-*.tar
+docker*cache*
+
+# No subir llaves ni secretos
+*.pem
+*.key
+*.crt
+.env
+.env.*
