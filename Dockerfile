@@ -14,6 +14,5 @@ RUN rm -rf /var/www/html/* && \
 
 # Expone el puerto 80
 EXPOSE 80
-
 # Comando para ejecutar nginx en foreground
 CMD ["nginx", "-g", "daemon off;"]
