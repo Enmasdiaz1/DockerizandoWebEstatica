@@ -3,6 +3,7 @@
 ## Autor
 - Nombre: Enmanuel Santos Diaz
 - Matrícula: 25-1544
+- Universidad: UNIBE
 - Asignatura: TI3501-01-2026-1 — Tendencias en Desarrollo de Software (Electiva Prof.)
 - GitHub: enmasdiaz1
 - Docker Hub: enmasdiaz
