@@ -25,3 +25,5 @@ docker*cache*
 *.crt
 .env
 .env.*
+docker-clase.ppk
+carpeta-segura/docker-clase.pem
