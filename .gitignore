@@ -20,6 +20,7 @@ docker*cache*
 
 # No subir llaves ni secretos
 *.pem
+*.ppk
 *.key
 *.crt
 .env
